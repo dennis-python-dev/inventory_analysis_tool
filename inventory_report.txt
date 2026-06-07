@@ -1,0 +1,24 @@
+==================================================
+INVENTORY ANALYSIS REPORT
+==================================================
+
+Total Records: 7
+
+Missing Values
+--------------------------------------------------
+SKU          0
+Item         0
+Quantity     1
+Warehouse    0
+dtype: int64
+
+Duplicated SKUs
+--------------------------------------------------
+    SKU    Item  Quantity Warehouse
+0  A100  Widget      50.0       ATL
+5  A100  Widget      50.0       ATL
+
+Negative Inventory
+--------------------------------------------------
+    SKU    Item  Quantity Warehouse
+1  A101  Gadget     -10.0       ATL

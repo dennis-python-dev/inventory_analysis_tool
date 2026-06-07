@@ -1,0 +1,8 @@
+SKU,Item,Quantity,Warehouse
+A100,Widget,50.0,ATL
+A101,Gadget,-10.0,ATL
+A102,Widget,50.0,ATL
+A103,Thingamajig,,NYC
+A104,Widget,30.0,NYC
+A100,Widget,50.0,ATL
+A105,Device,20.0,NYC
